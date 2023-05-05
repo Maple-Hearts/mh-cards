@@ -1,4 +1,7 @@
-# mi-card
+# mh-cards, Rare trading and collecting cards
+
+This is a WIP and complete redo incoming
+
 QBCore Trading Cards
 
 ### Demo: [https://streamable.com/oz669m](https://streamable.com/oz669m)
